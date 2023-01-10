@@ -1,1 +1,1 @@
-# learning-AJAX
+AJAX torna a comunicação com as páginas WEB mais iterativas para o usuário, utilizando-se de solicitações assíncronas de informações.
